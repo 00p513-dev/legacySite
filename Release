@@ -1,0 +1,12 @@
+Origin: Amys Repo
+Label: Amys Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Collection of shitty packages, some kanged of repos i cant use on iOS 4
+
+SHA256:
+ 6e33a45ed2d6ea1cdb2fee8b225e1b40f923a82429422a648fb3bd3ee63d3533 549 Packages.bz2
+ ddc6c43f8cc028405c76a53e14e6c98da1d1d6ac6ca4209e09b715374c05c2ae 544 Packages.xz
