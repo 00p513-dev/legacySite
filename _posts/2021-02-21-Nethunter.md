@@ -2,6 +2,7 @@
 layout: post
 title: Kali Nethunter for Moto g7 Play
 preview: Kali Nethunter is a mobile penetration testing suite for Android phones, combining the power of Kali Linux in a lightweight chroot
+author: Amy
 ---
 
 > This guide is for educational purposes. You shall not misuse the information to gain unauthorised access. However you may try out these hacks on your own computer at your own risk. Performing hack attempts (without permission) on computers that you do not own is illegal.

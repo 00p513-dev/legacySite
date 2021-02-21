@@ -2,7 +2,8 @@
 layout: default
 ---
 <h1 class="post-headline">{{page.title}}</h1>
-<p class="meta"><small>{{page.date | date: '%B %d, %Y'}}</small></p>
+<p class="meta"><small>{{page.date | date: '%B %d, %Y'}} | By {{page.author | strip_html}}</small></p>
+
 
 {{content}}
 
