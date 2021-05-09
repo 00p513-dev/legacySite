@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to build a custom ROM - Part 3
+title: How to build a custom ROM - Part 4
 preview: Many Android ROMs exist, but what if one hasn't been built for your phone? Learn how to build it yourself!
 author: Amy
 ---
