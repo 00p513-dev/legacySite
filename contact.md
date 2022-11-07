@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 Email: <a href="mailto:{{site.email}}">{{site.email}}</a><br>
-Twitter: <a href="https://twitter.com/memediatek">@memediatek</a><br>
+Fedi: <a href="https://uwu.social/web/@amy">@amy@uwu.social</a><br>
